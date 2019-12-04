@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial7</string>
+    <string name="empty_list_text">Hallo</string>
+    <string name="add_record">Add Record</string>
+    <string name="enter_nama">Enter Name</string>
+    <string name="enter_kelas">Enter Class</string>
+    <string name="btn_update">Button Update</string>
+    <string name="btn_delete">Button Delete</string>
+</resources>
