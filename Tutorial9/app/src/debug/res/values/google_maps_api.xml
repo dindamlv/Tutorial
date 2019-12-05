@@ -1,0 +1,8 @@
+<resources>
+    <!-- Ganti dengan API Key masing-masing -->
+    <string
+        name="google_maps_key"
+        templateMergeStrategy="preserve"
+        translatable="false">AIzaSyBmV29r6icPqYQQ0q-yMOFU3aqP_9l5Ktw
+    </string>
+</resources>
